@@ -96,7 +96,11 @@ The dataset contains customer demographic information, purchasing history, and m
 ![Missing Values](Screenshots/missing_values.png)
 
 ---
+## Dataset Columns
 
+![Dataset_Columns](Screenshots/dataset_columns.png)
+
+---
 ## Duplicate Records
 
 ![Duplicate Records](Screenshots/duplicate_records.png)
